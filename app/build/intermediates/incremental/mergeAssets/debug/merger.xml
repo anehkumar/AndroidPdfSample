@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\Zeta\shubham dropbox\AndroidPDFDemo\app\src\main\assets"><file name="font/ArchivoNarrow-Regular.ttf" path="D:\Zeta\shubham dropbox\AndroidPDFDemo\app\src\main\assets\font\ArchivoNarrow-Regular.ttf"/><file name="font/Time Roman.ttf" path="D:\Zeta\shubham dropbox\AndroidPDFDemo\app\src\main\assets\font\Time Roman.ttf"/></source></dataSet><dataSet config="debug"><source path="D:\Zeta\shubham dropbox\AndroidPDFDemo\app\src\debug\assets"/></dataSet></merger>

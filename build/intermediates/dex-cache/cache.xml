@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Zeta\shubham dropbox\AndroidPDFDemo\app\libs\itextpdf-5.4.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e8446d816a76ad3998504a20e2bb8f8b0dad6a4b">
+        <dex dex="D:\Zeta\shubham dropbox\AndroidPDFDemo\app\build\intermediates\pre-dexed\debug\itextpdf-5.4.3-5d5d914f0fc314d46d4e0ebb6d24b17be6ba4147.jar" />
+    </item>
+    <item
+        jar="D:\Zeta\android-sdk-windows\android-sdk-windows\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\Zeta\shubham dropbox\AndroidPDFDemo\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-9086f08134d483e2c11cbaaa9089d6ae9cde289b.jar" />
+    </item>
+
+</items>
